@@ -1,3 +1,5 @@
+Оригинальное ТЗ https://github.com/TrajectorySPBprod/test-task-backend-2026
+
 Синхронизация покупателей и сделок из CRM в Postgres
 
 Что было дорого
